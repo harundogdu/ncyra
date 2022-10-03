@@ -1,0 +1,38 @@
+.nycra-btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  background: transparent;
+}
+
+.nycra-btn-dashed {
+  border: 1px dashed #000;
+}
+
+.nycra-btn-primary {
+  background-color: #000;
+  color: #fff;
+}
+
+.nycra-btn-default {
+  background-color: #fff;
+  color: #000;
+}
+
+.nycra-btn-text {
+  background-color: transparent;
+  color: #000;
+  border: none;
+}
+
+.nycra-btn-link {
+  background-color: transparent;
+  color: #000;
+  border: none;
+  text-decoration: underline;
+}
